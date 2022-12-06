@@ -36,3 +36,31 @@ print(AYAM,BEBEK)
 # Ayam berjenis hewan unggas
 # Bebek berjenis unggas
 # Ayam berjenis hewan unggas Bebek berjenis unggas
+
+mobilku = "Kijang"
+_mobilku = "Kijang"
+mobil_sport = "lamborghini"
+
+print(mobilku)
+print(_mobilku)
+print(mobil_sport)
+
+_mobilku1 = "Kijang"
+mobil_sport2 = "Supra"
+a2 = "Mobil Coltdiesel"
+ax2 = "Mobil Pejero"
+
+print(_mobilku1)
+print(mobil_sport2)
+print(a2)
+print(ax2)
+
+mobil_Sport = "Lamborghini"
+mobil_sport = "lamborghini"
+
+print(mobil_Sport)
+print(mobil_sport)
+
+# error
+# as = "Test"
+# print(as)
